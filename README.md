@@ -1,7 +1,9 @@
 
 
 
-### Hi 👋 i'm Dayanna Belizario.
+### Hi 👋 
+
+i'm Dayanna Belizario.
 <p><em> "I am a programming student focused on front-end development. Although I have completed few projects so far, I am curious and eager to acquire knowledge, always seeking to learn and enhance my skills. I have a great ability to absorb new concepts and techniques, which makes me a quick and adaptable learner. My passion for programming and my determination to excel in this field drive me to constantly seek new challenges and opportunities to improve my front-end development skills. With a positive attitude and a growth mindset, I am confident that I am on the right path to become a talented and successful professional."</p></em>
 
  ### Studying in this moment:
